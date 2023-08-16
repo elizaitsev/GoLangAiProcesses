@@ -4,6 +4,7 @@ go 1.21.0
 
 require (
 	github.com/go-ole/go-ole v1.2.6 // indirect
+	github.com/kardianos/service v1.2.2 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
